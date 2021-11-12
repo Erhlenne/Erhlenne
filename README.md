@@ -1,4 +1,4 @@
-x### Hi there 👋
+### Hi there 👋
 
 This is Ellen, an aspiring Android Developer.
 
